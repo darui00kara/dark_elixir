@@ -496,8 +496,8 @@ deopleteが自動補完してくれていますが、一応コマンドも知っ
 目指すはnvimでの快適Elixirライフ！！
 
 ## 参考
-[https://neovim.io/](https://neovim.io/)
-[https://github.com/Shougo/dein.vim](https://github.com/Shougo/dein.vim)
-[https://github.com/Shougo/deoplete.nvim](https://github.com/Shougo/deoplete.nvim)
-[https://github.com/slashmili/alchemist.vim/wiki](https://github.com/slashmili/alchemist.vim/wiki)
-[https://github.com/Shougo/shougo-s-github](https://github.com/Shougo/shougo-s-github)
+[https://neovim.io/](https://neovim.io/)  
+[https://github.com/Shougo/dein.vim](https://github.com/Shougo/dein.vim)  
+[https://github.com/Shougo/deoplete.nvim](https://github.com/Shougo/deoplete.nvim)  
+[https://github.com/slashmili/alchemist.vim/wiki](https://github.com/slashmili/alchemist.vim/wiki)  
+[https://github.com/Shougo/shougo-s-github](https://github.com/Shougo/shougo-s-github)  
