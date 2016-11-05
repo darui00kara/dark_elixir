@@ -1,0 +1,48 @@
+[[plugins]]
+repo = 'Shougo/dein.vim'
+
+[[plugins]]
+repo = 'Shougo/vimproc.vim'
+build = 'make'
+
+[[plugins]]
+repo = 'Shougo/vimshell.vim'
+
+[[plugins]]
+repo = 'Shougo/context_filetype.vim'
+
+[[plugins]]
+repo = 'hail2u/vim-css3-syntax'
+
+[[plugins]]
+repo = 'thinca/vim-ref'
+
+[[plugins]]
+repo = 'elixir-lang/vim-elixir'
+on_ft = ['elixir']
+
+[[plugins]]
+repo = 'slashmili/alchemist.vim'
+depends = 'vim-elixir'
+on_ft = ['elixir']
+
+[[plugins]]
+repo = 'cespare/vim-toml'
+on_ft = ['toml']
+
+[[plugins]]
+repo = 'elzr/vim-json'
+on_ft = 'json'
+
+[[plugins]]
+repo = 'rcmdnk/vim-markdown'
+on_ft = ['markdown', 'mkd']
+
+[[plugins]]
+repo = 'vim-ruby/vim-ruby'
+on_map = '<Plug>'
+on_ft = 'ruby'
+
+[[plugins]]
+repo = 'jelera/vim-javascript-syntax'
+on_ft = 'javascript'
